@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+Backend-express/.env
+Frontend-React/.env
+
+# React build output
+Frontend-React/build/
+
+# Logs
+*.log
+logs/
