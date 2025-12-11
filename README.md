@@ -1,10 +1,24 @@
-# Courses FullStack Project (MERN)
+# 🎓 Courses FullStack Project (MERN)
 
-This is a complete FullStack Courses Application built using the MERN stack.
+A complete FullStack Courses Application built using the **MERN Stack** with separate **Backend (Express)** and **Frontend (React + Vite)** folders.
+
+---
 
 ## 🚀 Tech Stack
-- **Frontend:** React + Vite
-- **Backend:** Node.js + Express
-- **Database:** MongoDB
+
+### **Frontend**
+- React.js  
+- Vite  
+- CSS  
+- Fetch API  
+
+### **Backend**
+- Node.js  
+- Express.js  
+- Mongoose  
+- MongoDB  
+
+---
 
 ## 📂 Project Structure
+
